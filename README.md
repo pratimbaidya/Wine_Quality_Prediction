@@ -5,16 +5,27 @@ This is a classification project on a wine quality dataset.
 There are a total 11 columns in this dataset.
 
 fixed_acidity
+
 volatile_acidity
+
 citric_acid
+
 residual_sugar
+
 chlorides
+
 free_sulfur_dioxide
+
 total_sulfur_dioxide
+
 density
+
 pH
+
 sulphates
+
 alcohol
+
 quality -> score between 3 and 9 -> target for our dataset
 
 # Process
